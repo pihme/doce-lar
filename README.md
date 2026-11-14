@@ -34,7 +34,7 @@ Status: just started.
 
 | Project | Part in Doce Lar | State |
 | --- | --- | --- |
-| [Hausteich](https://github.com/pihme/hausteich) | The store: passive, headless, with a REST interface. Its helpers, the Rinnsale, read mailboxes, folders and the document archive and fill it. | Spec draft, private |
+| [Hausteich](https://github.com/pihme/hausteich) | The store: passive, headless, with a REST interface. Its helpers, the Rinnsale, read mailboxes, folders and the document archive and fill it. | Spec draft |
 | [RAGite](https://github.com/pihme/ragite) | The search core inside Hausteich: embeddings on the CPU and hybrid search in SQLite. Hausteich is its reference user. | Released |
 | [My Data, My Tools, My Rules](https://github.com/pihme/my-data-my-tools-my-rules) | The catalog the off-the-shelf programs are picked from. | Published |
 | [Hobelbank](https://github.com/pihme/hobelbank) and [Hermetarium](https://github.com/pihme/hermetarium) | A possible home for the AI that reads the store: a habitat that reaches only the model endpoint. Not decided. | Idea |
